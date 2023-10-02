@@ -1,6 +1,9 @@
-%% Proyecto Final - Sistema de Comunicacion Inalambrico mediante AM (DSB-SC)
-%% Juan Luis Garcia Pe?a #1088276 & Andy Paulo Ramirez #1087586
+%% Andy Paulo Ramirez #1087586
 %% Implementacion en MATLAB - Simulation
+%%This program presents the process of building a unidirectional communication system 
+%%using amplitude modulation (AM) in its Dual Side-Band Suppressed Carrier (DSB-SC) modality 
+%%to transmit a baseband information signal over a short distance.
+
 clear all 
 clc
 
